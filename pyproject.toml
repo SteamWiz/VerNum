@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "vernum"
-version = "7.4.0"
+version = "8.0.0"
 description = "Generate and process semantic version numbers"
 authors = ["Francis Potter <vernum@fpotter.com>"]
 license = "MIT"
